@@ -7,7 +7,7 @@ ChainBNB is a peer-to-peer distributed property renting application based on the
 * Renting a property for multiple dates
 * Enabling bidding on the rental place
 * Bidding on the rental places
-* Updating managing rental properties (Accepting bids, updating rents etc.
+* Updating managing rental properties (Accepting bids, updating rents etc.)
 
 ## Local setup instructions
 
