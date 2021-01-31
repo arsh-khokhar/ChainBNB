@@ -1,0 +1,25 @@
+.newRentalPlaceContainer {
+  margin-top: 1%;
+  margin-bottom: 1%;
+  padding: 2%;
+  float: left;
+  width: 100%;
+  align-self: start;
+}
+
+#newPlaceAddress {
+  width: 40%;
+}
+
+#newPlaceRent {
+  width: 10%;
+}
+
+#etherLabel {
+  font-size: large;
+  width: 5%;
+  text-align: center;
+  background-color: whitesmoke;
+  border: 10pt;
+  color: gray;
+}
